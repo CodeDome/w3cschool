@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 w3cschool.cc
 www.baidu.com
+来啦`
+=======
+www.w3cschool.cc
+>>>>>>> change_site
